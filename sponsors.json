@@ -12,6 +12,7 @@
       "name": "Rajamangala University of Technology Isan",
       "logo_url": "https://raw.githubusercontent.com/srkwin/spc2026-content/main/images/rmuti_logo.png",
       "website": "https://rmuti.ac.th/",
+      "description": "Rajamangala University of Technology Isan (RMUTI) is a public university in Thailand dedicated to providing quality education and conducting research in various fields of engineering and science.",
       "category": "Host",
       "order": 2
     },
@@ -19,6 +20,7 @@
       "name": "Thai Physics Society",
       "logo_url": "https://raw.githubusercontent.com/srkwin/spc2026-content/main/images/tps_logo.png",
       "website": "https://thaiphysoc.org/",
+      "description": "The Thai Physics Society (TPS) is a professional organization that promotes the advancement of physics in Thailand. TPS organizes conferences, workshops, and other events to facilitate collaboration and knowledge sharing among physicists in the country.",
       "category": "Host",
       "order": 3
     },
@@ -26,6 +28,7 @@
       "name": "National Astronomical Research Institute of Thailand (Public Organization)",
       "logo_url": "https://raw.githubusercontent.com/srkwin/spc2026-content/main/images/narit_logo.png",
       "website": "https://www.narit.or.th",
+      "description": "The National Astronomical Research Institute of Thailand (NARIT) is a public organization under the Ministry of Higher Education, Science, Research and Innovation of Thailand. NARIT conducts research in astronomy and astrophysics and provides educational programs to promote public understanding of space science.",
       "category": "Co-Host",
       "order": 1
     }
@@ -36,7 +39,7 @@
       "logo_url": "https://raw.githubusercontent.com/srkwin/spc2026-content/main/images/ryts_logo.jpg",
       "website": "https://www.ryts.com",
       "category": "Platinum",
-      "description": "",
+      "description": "ryts Instruments is a leading manufacturer of high-quality scientific instruments for research and industrial applications.",
       "order": 1
     }
   ]
