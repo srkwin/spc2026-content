@@ -1,0 +1,43 @@
+{
+  "partners": [
+    {
+      "name": "Synchrotron Light Research Institute (Public Organization)",
+      "logo_url": "https://raw.githubusercontent.com/srkwin/spc2026-content/main/images/slri_logo.png",
+      "website": "https://www.slri.or.th",
+      "description": "Synchrotron Light Research Institute (SLRI) is a public organization under the Ministry of Higher Education, Science, Research and Innovation of Thailand. SLRI operates the Siam Photon Source (SPS), a synchrotron light source that provides high-intensity X-rays for scientific research in various fields, including physics, chemistry, materials science, and biology.",
+      "category": "Host",
+      "order": 1
+    },
+    {
+      "name": "Rajamangala University of Technology Isan",
+      "logo_url": "https://raw.githubusercontent.com/srkwin/spc2026-content/main/images/rmuti_logo.png",
+      "website": "https://rmuti.ac.th/",
+      "category": "Host",
+      "order": 2
+    },
+    {
+      "name": "Thai Physics Society",
+      "logo_url": "https://raw.githubusercontent.com/srkwin/spc2026-content/main/images/tps_logo.png",
+      "website": "https://thaiphysoc.org/",
+      "category": "Host",
+      "order": 3
+    },
+    {
+      "name": "National Astronomical Research Institute of Thailand (Public Organization)",
+      "logo_url": "https://raw.githubusercontent.com/srkwin/spc2026-content/main/images/narit_logo.png",
+      "website": "https://www.narit.or.th",
+      "category": "Co-Host",
+      "order": 1
+    }
+  ],
+  "exhibitions": [
+    {
+      "name": "ryts Instruments",
+      "logo_url": "https://raw.githubusercontent.com/srkwin/spc2026-content/main/images/ryts_logo.jpg",
+      "website": "https://www.ryts.com",
+      "category": "Platinum",
+      "description": "",
+      "order": 1
+    }
+  ]
+}
