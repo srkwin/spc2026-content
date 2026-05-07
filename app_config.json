@@ -1,0 +1,7 @@
+{
+  "latest_version": "1.0.2",
+  "checkin": {
+    "enabled": false,
+    "description": "Please proceed to your assigned counter with your QR code. Staff will scan your code, print your badge, and hand you your conference kit."
+  }
+}
