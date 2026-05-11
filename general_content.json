@@ -1,0 +1,52 @@
+{
+  "sections": [
+    {
+      "order": 1,
+      "icon": "info_outline",
+      "title": "About SPC2026",
+      "body": "The Siam Physics Congress 2026 brings together physicists from across Thailand and the region for four days of talks, posters, and discussion. Plenary sessions, parallel tracks across nine subject areas, and a poster competition for early-career researchers."
+    },
+    {
+      "order": 2,
+      "icon": "event",
+      "title": "Conference Dates",
+      "body": "Wednesday 20 May – Friday 22 May 2026.\n\nRegistration desk opens 07:30 on Day 1. Welcome reception Wednesday evening; conference banquet Friday evening."
+    },
+    {
+      "order": 3,
+      "icon": "location_on",
+      "title": "Venue",
+      "body": "Dusit Thani Hua Hin, Thailand.\n\nAll plenary and parallel sessions take place in the Royal Dusit Ballroom and the Khao Yai / Khao Luang / Khao Wang meeting rooms."
+    },
+    {
+      "order": 4,
+      "icon": "how_to_reg",
+      "title": "Check-in",
+      "body": "Bring your registration QR code (visible in the Me page of this app). Proceed to your assigned counter — your counter and time window are listed on your profile after you fetch your details."
+    },
+    {
+      "order": 5,
+      "icon": "wifi",
+      "title": "Wi-Fi",
+      "body": "Conference Wi-Fi: SPC2026\nPassword: Place holder\n\nIf the conference network is congested, the hotel guest network is also available with the access code printed on your room key."
+    },
+    {
+      "order": 6,
+      "icon": "restaurant",
+      "title": "Meals",
+      "body": "Coffee breaks (morning + afternoon) and lunch are included for all registered attendees and held in the foyer adjacent to the main ballroom.\n\nDietary preferences you supplied during registration appear on the Me page after you fetch your details."
+    },
+    {
+      "order": 7,
+      "icon": "directions_bus",
+      "title": "Getting There",
+      "body": "test"
+    },
+    {
+      "order": 8,
+      "icon": "phone",
+      "title": "Contact",
+      "body": "Conference secretariat: test@slri.or.th "
+    }
+  ]
+}
