@@ -1,0 +1,29 @@
+{
+  "links": [
+    {
+      "order": 1,
+      "title": "Agenda",
+      "description": "Full conference agenda (PDF).",
+      "url": "https://spc2026.thaiphysoc.org/resources/agenda.pdf"
+    },
+    {
+      "order": 2,
+      "title": "Abstract Book",
+      "description": "Collection of all abstracts (PDF).",
+      "url": "https://spc2026.thaiphysoc.org/resources/abstract_book.pdf"
+    },
+    {
+      "order": 3,
+      "title": "Survey",
+      "description": "Participant feedback survey.",
+      "url": "https://forms.gle/XK9UvBAH4BhTdbHm6"
+    },
+    {
+      "order": 4,
+      "title": "Conference Booklet",
+      "description": "Comprehensive guide to the conference (PDF).",
+      "url": "https://spc2026.thaiphysoc.org/resources/conference_booklet.pdf"
+    }
+  ]
+}
+
