@@ -6,7 +6,7 @@
       "website": "https://www.slri.or.th",
       "description": "Synchrotron Light Research Institute (SLRI) is a public organization under the Ministry of Higher Education, Science, Research and Innovation of Thailand. SLRI operates the Siam Photon Source (SPS), a synchrotron light source that provides high-intensity X-rays for scientific research in various fields, including physics, chemistry, materials science, and biology.",
       "category": "Host",
-      "order": 1
+      "order": 2
     },
     {
       "name": "Rajamangala University of Technology Isan",
@@ -14,7 +14,7 @@
       "website": "https://rmuti.ac.th/",
       "description": "Rajamangala University of Technology Isan (RMUTI) is a public university in Thailand dedicated to providing quality education and conducting research in various fields of engineering and science.",
       "category": "Host",
-      "order": 2
+      "order": 3
     },
     {
       "name": "Thai Physics Society",
@@ -22,7 +22,7 @@
       "website": "https://thaiphysoc.org/",
       "description": "The Thai Physics Society (TPS) is a professional organization that promotes the advancement of physics in Thailand. TPS organizes conferences, workshops, and other events to facilitate collaboration and knowledge sharing among physicists in the country.",
       "category": "Host",
-      "order": 3
+      "order": 1
     },
     {
       "name": "National Astronomical Research Institute of Thailand (Public Organization)",

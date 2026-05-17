@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.4.0",
+  "latest_version": "1.6.0",
   "registration_api_url": "https://script.google.com/macros/s/AKfycbzuxnr9-0t9CRCxiQVPv_BO9uN83GBlRlottWZVNK-jMln6QeQvU3yw4Kj03PGA2Q6U/exec",
   "registration_detail_fields": ["checkin_counter"],
   "checkin": {
